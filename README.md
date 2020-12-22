@@ -38,4 +38,6 @@ This fastboot3ds mod includes the sighax signature, in other words, the signatur
 <br/>
 
 <b>Credits:</b>
+<br/>
+
 <a href="https://github.com/derrekr/fastboot3DS">The fastboot3ds project and all contributors</a>
