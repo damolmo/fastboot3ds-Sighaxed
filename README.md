@@ -37,6 +37,7 @@ This fastboot3ds mod includes the sighax signature, in other words, the signatur
 <b>Grab the latest mod from:<b/> <a href="https://github.com/daviiid99/fastboot3ds-Sighaxed/releases">Releases</a>
 <br/>
 
+
 <b>Credits:</b>
 <br/>
 
