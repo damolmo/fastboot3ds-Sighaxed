@@ -4,7 +4,9 @@ Personal FastBoot3DS mod with Sighax signature
 <img src="https://github.com/daviiid99/fastboot3ds-Sighaxed/blob/main/logo.png">
 This fastboot3ds mod includes the sighax signature, in other words, the signature needed to copy the fastboot3ds payload directly into yout FIRM or/and FIRM1 partition,making the installation easy with GodMode9 scripts.
 <br/>
+
 <b>Sighax signature (in hex):</b><br/>
+```
 unsigned char ucDataBlock[256] = {
 	<br/>// Offset 0x00000000 to 0x00000255
 	0xB6, 0x72, 0x45, 0x31, 0xC4, 0x48, 0x65, 0x7A, 0x2A, 0x2E, 0xE3, 0x06,<br/>
@@ -30,5 +32,5 @@ unsigned char ucDataBlock[256] = {
 	0xB9, 0x41, 0xCC, 0x68, 0xEB, 0x01, 0x7C, 0xE8, 0x7F, 0x5D, 0x79, 0x3A,<br/>
 	0xCA, 0x09, 0xAC, 0xF7<br/>
 }
-
+```
 <b>Grab the latest mod from:<b/> <a href="https://github.com/daviiid99/fastboot3ds-Sighaxed/releases">Releases</a>
