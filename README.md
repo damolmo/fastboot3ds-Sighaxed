@@ -2,7 +2,7 @@
 Personal FastBoot3DS mod with Sighax signature
 
 <img src="https://github.com/daviiid99/fastboot3ds-Sighaxed/blob/main/logo.png">
-This fastboot3ds mod includes the sighax signature, in other words, the signature needed to copy the fastboot3ds payload directly into yout FIRM or/and FIRM1 partition,making the installation easy with GodMode9 scripts.
+This fastboot3ds mod includes the sighax signature, in other words, the signature needed to copy the fastboot3ds payload directly into yout FIRM0 or/and FIRM1 partition,making the installation easy with GodMode9 scripts.
 <br/>
 
 <b>Sighax signature (in hex):</b><br/>
